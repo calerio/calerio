@@ -9,7 +9,6 @@
 🇿🇦 &nbsp; south african <br />
 🎓 &nbsp; student @ bocconi university, milan <br />
 🧠 &nbsp; ever since i was young i wanted to transform unstructured data into actionable business insights <br />
-⚖️ &nbsp; building **legalize-za** — south african law as version-controlled markdown <br />
 
 ## 📌 &nbsp; projects
 
