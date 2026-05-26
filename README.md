@@ -19,6 +19,12 @@
 | [`claude-skills`](https://github.com/calerio/claude-skills) | custom skills for claude code & ai coding assistants i tinker with |
 | [`Mini-Briscola`](https://github.com/calerio/Mini-Briscola) | briscola — the classic italian card game, in code |
 
+## 🔗 &nbsp; links
+
+💼 &nbsp; linkedin: [`valerioc`](https://www.linkedin.com/in/valerioc) <br />
+📸 &nbsp; instagram: [`@va1eriocosta`](https://instagram.com/va1eriocosta) <br />
+🤗 &nbsp; hugging face: [`calerio`](https://huggingface.co/calerio) <br />
+
 <br />
 
 <div align="center">
