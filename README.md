@@ -8,7 +8,7 @@
 
 🇿🇦 &nbsp; south african <br />
 🎓 &nbsp; student @ bocconi university, milan <br />
-🧠 &nbsp; into nlp, ai tooling, and turning messy data into clean, durable formats <br />
+🧠 &nbsp; ever since i was young i wanted to transform unstructured data into actionable business insights <br />
 ⚖️ &nbsp; building **legalize-za** — south african law as version-controlled markdown <br />
 
 ## 📌 &nbsp; projects
