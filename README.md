@@ -37,6 +37,8 @@
 
 | repo | what it is |
 |------|------------|
+| [`western-cape-valuations`](https://github.com/calerio/western-cape-valuations) | interactive map of municipal property valuations across the western cape — [live site](https://calerio.github.io/western-cape-valuations/) |
+| [`t812-archive`](https://github.com/calerio/t812-archive) | a living archive of flat t812 — polaroids, letters & memories — [live site](https://calerio.github.io/t812-archive/) |
 | [`dog-whistle-detection`](https://github.com/calerio/dog-whistle-detection) | bocconi nlp project — dog-whistle disambiguation on the *silent_signals* corpus |
 | [`claude-skills`](https://github.com/calerio/claude-skills) | custom skills for claude code & ai coding assistants i tinker with |
 | [`Mini-Briscola`](https://github.com/calerio/Mini-Briscola) | briscola — the classic italian card game, in code |
