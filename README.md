@@ -4,53 +4,19 @@
 
 <br />
 
-## 👋 &nbsp; about me
+i'm valerio, a south african studying at bocconi in milan. mostly i do nlp and data work, and every now and then i build a small site because i wanted to see something on a map or keep something from getting lost.
 
-🇿🇦 &nbsp; south african <br />
-🎓 &nbsp; student @ bocconi university, milan <br />
-🧠 &nbsp; ever since i was young i wanted to transform unstructured data into actionable business insights <br />
+i write python most days, plus some typescript, sql and swift. for ml it's pytorch, hugging face, spacy, scikit-learn, pandas and numpy, usually in a jupyter notebook.
 
-## 🛠️ &nbsp; skills
+### things i've made
 
-**languages** <br />
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+- [pokemon-tcg-pocket-deck-builder](https://github.com/calerio/pokemon-tcg-pocket-deck-builder): build a pokémon tcg pocket deck and get the qr code the game scans ([try it](https://calerio.github.io/pokemon-tcg-pocket-deck-builder/))
+- [western-cape-valuations](https://github.com/calerio/western-cape-valuations): a map of municipal property valuations across the western cape ([live site](https://calerio.github.io/western-cape-valuations/))
+- [t812-archive](https://github.com/calerio/t812-archive): polaroids, letters and memories from flat t812 ([live site](https://calerio.github.io/t812-archive/))
+- [dog-whistle-detection](https://github.com/calerio/dog-whistle-detection): my bocconi nlp project on disambiguating dog whistles in the *silent_signals* corpus
+- [claude-skills](https://github.com/calerio/claude-skills): skills for claude code that i tinker with
+- [Mini-Briscola](https://github.com/calerio/Mini-Briscola): briscola, the italian card game
 
-**nlp / ml** <br />
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### elsewhere
 
-**tooling** <br />
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-## 📌 &nbsp; projects
-
-| repo | what it is |
-|------|------------|
-| [`western-cape-valuations`](https://github.com/calerio/western-cape-valuations) | interactive map of municipal property valuations across the western cape — [live site](https://calerio.github.io/western-cape-valuations/) |
-| [`t812-archive`](https://github.com/calerio/t812-archive) | a living archive of flat t812 — polaroids, letters & memories — [live site](https://calerio.github.io/t812-archive/) |
-| [`dog-whistle-detection`](https://github.com/calerio/dog-whistle-detection) | bocconi nlp project — dog-whistle disambiguation on the *silent_signals* corpus |
-| [`claude-skills`](https://github.com/calerio/claude-skills) | custom skills for claude code & ai coding assistants i tinker with |
-| [`Mini-Briscola`](https://github.com/calerio/Mini-Briscola) | briscola — the classic italian card game, in code |
-
-## 🔗 &nbsp; links
-
-💼 &nbsp; linkedin: [`valerioc`](https://www.linkedin.com/in/valerioc) <br />
-📸 &nbsp; instagram: [`@va1eriocosta`](https://instagram.com/va1eriocosta) <br />
-🤗 &nbsp; hugging face: [`calerio`](https://huggingface.co/calerio) <br />
-
-<br />
-
-<div align="center">
-  <i>feel free to fork, remix, and build on anything here.</i>
-</div>
+[linkedin](https://www.linkedin.com/in/valerioc) · [instagram (@va1eriocosta)](https://instagram.com/va1eriocosta) · [hugging face](https://huggingface.co/calerio)
