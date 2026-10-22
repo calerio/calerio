@@ -13,7 +13,7 @@ i write python most days, plus some typescript, sql and swift. for ml it's pytor
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/calerio/stardew-valley-afrikaans"><img src="https://raw.githubusercontent.com/calerio/stardew-valley-afrikaans/HEAD/docs/banner.png" alt="stardew valley in afrikaans" width="100%"></a>
+<a href="https://github.com/calerio/stardew-valley-afrikaans"><img src="./images/stardew-card.png" alt="stardew valley in afrikaans" width="100%"></a>
 <br><b><a href="https://github.com/calerio/stardew-valley-afrikaans">stardew valley in afrikaans</a></b><br>
 <sub>the whole game translated, with 99 signs redrawn by hand. also on <a href="https://www.nexusmods.com/stardewvalley/mods/54293">nexus mods</a>.</sub>
 </td>
