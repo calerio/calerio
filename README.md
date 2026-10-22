@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/banner.png" alt="howzit! — valerio costa" width="100%" />
+  <img src="./images/banner.webp" alt="howzit! — valerio costa" width="100%" />
 </div>
 
 <br />
