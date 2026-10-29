@@ -4,7 +4,7 @@
 
 <br />
 
-i'm valerio, a south african studying at bocconi in milan. mostly i do nlp and data work, and every now and then i build a small site because i wanted to see something on a map or keep something from getting lost.
+i'm valerio, a data scientist from stellenbosch, now in milan: doing my master's at bocconi and working there as a research assistant on models that predict where people look on a page. mostly i do nlp and data work, and every now and then i build a small site because i wanted to see something on a map or keep something from getting lost.
 
 i write python most days, plus some typescript, sql and swift. for ml it's pytorch, hugging face, spacy, scikit-learn, pandas and numpy.
 
@@ -39,4 +39,4 @@ also:
 
 ### elsewhere
 
-[linkedin](https://www.linkedin.com/in/valerioc) · [instagram (@va1eriocosta)](https://instagram.com/va1eriocosta) · [hugging face](https://huggingface.co/calerio)
+[valeriocosta.com](https://valeriocosta.com) · [linkedin](https://www.linkedin.com/in/valerioc) · [instagram (@va1eriocosta)](https://instagram.com/va1eriocosta) · [hugging face](https://huggingface.co/calerio)
