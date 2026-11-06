@@ -13,7 +13,7 @@ i write python most days, plus some typescript, sql and swift. for ml it's pytor
 <table>
 <tr>
 <td width="25%" valign="top">
-<a href="https://github.com/calerio/lge-2026-results"><img src="./images/lge-card.png" alt="south africa lge 2026 results" width="100%"></a>
+<a href="https://github.com/calerio/lge-2026-results"><img src="./images/lge-card-v2.png" alt="south africa lge 2026 results" width="100%"></a>
 <br><b><a href="https://github.com/calerio/lge-2026-results">lge 2026 results</a></b><br>
 <sub>a live map of south africa's 2026 local election results from iec data, with vote-share projections nationally and for the eight metros. <a href="https://calerio.github.io/lge-2026-results/">live site</a>.</sub>
 </td>
