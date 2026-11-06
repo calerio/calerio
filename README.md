@@ -32,6 +32,7 @@ i write python most days, plus some typescript, sql and swift. for ml it's pytor
 
 also:
 
+- [lge-2026-results](https://github.com/calerio/lge-2026-results): live results map for south africa's 2026 local government elections, from iec data, with projections for the metros ([live site](https://calerio.github.io/lge-2026-results/))
 - [t812-archive](https://github.com/calerio/t812-archive): polaroids, letters and memories from flat t812 ([live site](https://calerio.github.io/t812-archive/))
 - [dog-whistle-detection](https://github.com/calerio/dog-whistle-detection): my bocconi nlp project on disambiguating dog whistles in the *silent_signals* corpus
 - [claude-skills](https://github.com/calerio/claude-skills): skills for claude code that i tinker with
